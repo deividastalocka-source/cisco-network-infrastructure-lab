@@ -123,7 +123,7 @@ cisco-network-infrastructure-lab/
 │   └── 10-lessons-learned.md
 │
 ├── packet-tracer/
-│   └── Cisco-Network-Infrastructure-Lab.pkt
+│   └── Lab.pkt
 │
 └── screenshots/
     ├── 01 - Initial Network Topology.png
