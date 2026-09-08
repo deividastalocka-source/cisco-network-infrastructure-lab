@@ -11,5 +11,5 @@ The configuration was verified using the `show ip interface brief` command. All 
 *Figure 7 – Inter-VLAN Routing Configuration*
 
 ---
-
+ 
 [← Previous: VLAN Configuration](03-vlan-configuration.md) | [Next: DHCP Configuration →](05-dhcp-configuration.md)
