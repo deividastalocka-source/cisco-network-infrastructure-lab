@@ -4,7 +4,7 @@
 
 The initial network topology was created in Cisco Packet Tracer to represent the organisation's enterprise network. A Cisco router and core switch provide the central network infrastructure, with separate access switches allocated to the IT, Finance and HR departments. A dedicated server represents the DC01 infrastructure server used throughout the environment.
 
-![Initial Enterprise Network Topology](../screenshots/01.png)
+![Initial Enterprise Network Topology](../screenshots/01%20-%20Initial%20Network%20Topology.png)
 
 *Figure 1 – Initial Enterprise Network Topology*
 
