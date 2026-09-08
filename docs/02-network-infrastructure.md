@@ -13,5 +13,5 @@ The R1 router was configured through the Cisco IOS command-line interface. The G
 *Figure 3 – Router Interface Verification*
 
 ---
-
+ 
 [← Previous: Lab Environment](01-lab-environment.md) | [Next: VLAN Configuration →](03-vlan-configuration.md)
